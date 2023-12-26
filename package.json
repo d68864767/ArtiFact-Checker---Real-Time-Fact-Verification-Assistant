@@ -1,0 +1,31 @@
+{
+  "name": "artifact-checker",
+  "version": "1.0.0",
+  "description": "Real-Time Fact Verification Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fact-checking",
+    "openai",
+    "bias-detection",
+    "source-validation",
+    "real-time-alerts",
+    "report-generation"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

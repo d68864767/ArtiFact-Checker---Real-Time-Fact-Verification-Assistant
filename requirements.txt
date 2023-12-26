@@ -1,0 +1,18 @@
+# Python Libraries
+Flask==1.1.2
+Django==3.2.5
+psycopg2==2.8.6
+pymongo==3.11.4
+openai==0.27.0
+
+# Frontend Libraries
+react==17.0.2
+vue==2.6.12
+
+# Other Libraries
+requests==2.25.1
+numpy==1.21.0
+pandas==1.2.5
+scikit-learn==0.24.2
+nltk==3.6.2
+beautifulsoup4==4.9.3
